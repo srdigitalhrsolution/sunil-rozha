@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.sunilrozha.online/sitemap.xml
+Sitemap: https://srdigitalhrsolution.github.io/SUNIL-ROZHA/sitemap.xml
